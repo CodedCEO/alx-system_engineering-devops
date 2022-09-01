@@ -1,1 +1,1 @@
-firstdirectory
+list directories
