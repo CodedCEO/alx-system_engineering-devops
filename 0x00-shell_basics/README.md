@@ -1,1 +1,1 @@
-list directories
+movefile
